@@ -1,6 +1,6 @@
-# SunbayLabsPortfolio
+# Sunbay Labs — Company Profile
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.4.
+A single-page company profile site for Sunbay Labs (hero, about, services, work, team, contact), built with [Angular CLI](https://github.com/angular/angular-cli) version 22.0.4.
 
 ## Development server
 
